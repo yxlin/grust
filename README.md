@@ -26,7 +26,8 @@ An experimental version has been implemented also in "eam" for my current work.
 
 6. (Possibly) implement an automated mechanism to do post-predictive model simulation.  
 
-
+## Tertiary Objectives 
+1. Provide a JavaScript and HTML interface to show case interesting cases.
 
 
 
