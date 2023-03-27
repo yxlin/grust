@@ -28,7 +28,7 @@ An experimental version has been implemented also in "eam" for my current work.
 
 ## Tertiary Objectives 
 1. Provide a JavaScript and HTML interface to show case interesting cases.
-
+2. Use more the MSVC debugging tool to clear up the C++ structure.  
 
 
 
