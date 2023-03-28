@@ -29,6 +29,6 @@ An experimental version has been implemented also in "eam" for my current work.
 ## Tertiary Objectives 
 1. Provide a JavaScript and HTML interface to show case interesting cases.
 2. Use more the MSVC debugging tool to clear up the C++ structure.  
-
+3. Improve the performance of the speed of convergence. The genetic sampling may introduce non-linear correlation. One way to resolve it is to run, e.g., three independent group of populations of hierarhical model fits. For example, if 36 chains (assuming 12 free parameters) are used to fit a data set, one may want to run three independent groups of 36 chains. There is no automated function for doing this at the moment.     
 
 
